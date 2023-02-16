@@ -1,0 +1,333 @@
+[
+  {
+    "str": "\n  @import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Kalam:wght@300;400&family=Moon+Dance&family=Nunito:wght@200;400&family=Overpass:wght@100;200;400;500;600&family=Paytone+One&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,800;1,100;1,200;1,400&family=Righteous&family=Rowdies:wght@300;400&family=Rubik:wght@300;400;500&family=Seymour+One&family=Ubuntu:wght@300;500;700&display=swap');\n",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Bakbak One",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Kalam",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Kalam",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Moon Dance",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Nunito",
+          "fontStyle": "normal",
+          "fontWeight": 200
+        },
+        {
+          "fontFamily": "Nunito",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Overpass",
+          "fontStyle": "normal",
+          "fontWeight": 100
+        },
+        {
+          "fontFamily": "Overpass",
+          "fontStyle": "normal",
+          "fontWeight": 200
+        },
+        {
+          "fontFamily": "Overpass",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Overpass",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "Overpass",
+          "fontStyle": "normal",
+          "fontWeight": 600
+        },
+        {
+          "fontFamily": "Paytone One",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "italic",
+          "fontWeight": 100
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "italic",
+          "fontWeight": 200
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "italic",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "normal",
+          "fontWeight": 600
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "normal",
+          "fontWeight": 800
+        },
+        {
+          "fontFamily": "Righteous",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Rowdies",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Rowdies",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Rubik",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Rubik",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Rubik",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "Seymour One",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Ubuntu",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Ubuntu",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "Ubuntu",
+          "fontStyle": "normal",
+          "fontWeight": 700
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Kalam:wght@300;400&family=Moon+Dance&family=Nunito:wght@200;400&family=Overpass:wght@100;200;400;500;600&family=Paytone+One&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,800;1,100;1,200;1,400&family=Righteous&family=Roboto:wght@300;400;500&family=Rowdies:wght@300;400&family=Rubik:wght@300;400;500&family=Seymour+One&family=Ubuntu:wght@300;500;700&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Bakbak One",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Kalam",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Kalam",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Moon Dance",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Nunito",
+          "fontStyle": "normal",
+          "fontWeight": 200
+        },
+        {
+          "fontFamily": "Nunito",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Overpass",
+          "fontStyle": "normal",
+          "fontWeight": 100
+        },
+        {
+          "fontFamily": "Overpass",
+          "fontStyle": "normal",
+          "fontWeight": 200
+        },
+        {
+          "fontFamily": "Overpass",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Overpass",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "Overpass",
+          "fontStyle": "normal",
+          "fontWeight": 600
+        },
+        {
+          "fontFamily": "Paytone One",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "italic",
+          "fontWeight": 100
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "italic",
+          "fontWeight": 200
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "italic",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "normal",
+          "fontWeight": 600
+        },
+        {
+          "fontFamily": "Poppins",
+          "fontStyle": "normal",
+          "fontWeight": 800
+        },
+        {
+          "fontFamily": "Righteous",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Roboto",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Roboto",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Roboto",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "Rowdies",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Rowdies",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Rubik",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Rubik",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Rubik",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "Seymour One",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Ubuntu",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Ubuntu",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        },
+        {
+          "fontFamily": "Ubuntu",
+          "fontStyle": "normal",
+          "fontWeight": 700
+        }
+      ]
+    }
+  }
+]
