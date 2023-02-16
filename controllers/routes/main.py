@@ -1,7 +1,6 @@
 from .atri import Atri
 from fastapi import Request, Response
 from atri_utils import *
-
 def init_state(at: Atri):
     """
     This function is called everytime "Publish" button is hit in the editor.
